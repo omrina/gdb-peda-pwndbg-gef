@@ -19,9 +19,7 @@ https://medium.com/bugbountywriteup/pwndbg-gef-peda-one-for-all-and-all-for-one-
 # Installation
 
 ```
-cd ~ && git clone https://github.com/apogiatzis/gdb-peda-pwndbg-gef.git
-cd ~/gdb-peda-pwndbg-gef
-./install.sh
+cd ~ && git clone https://github.com/omrina/gdb-peda-pwndbg-gef.git && cd ~/gdb-peda-pwndbg-gef && ./install.sh
 ```
 
 ## Update
