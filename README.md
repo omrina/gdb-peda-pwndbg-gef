@@ -6,8 +6,8 @@ Run `install.sh` and then use one of the commands below to launch the correspond
 
 ```
 peda
-peda-intel
-peda-arm
+peda-i (intel)
+peda-a (arm)
 pwndbg
 gef
 ```
